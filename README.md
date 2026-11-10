@@ -38,6 +38,15 @@ It is rebuilt as the system changes. This one was built on 2026-11-10 and is sig
 
 Left out of the public seed: the maker's own build log and working conversations. A new build log starts with your copy.
 
+## The knowledge
+
+The public side of the knowledge graph is in `knowledge/feeds/`. Most people will look at it and see nothing. It is the part that matters most: everything the system knows about the world and about itself, kept as plain facts, each one saying what it is about, how it relates to something else, and when it was true. A system started from the seed can take it in and begin where this one is, instead of from nothing.
+
+- It comes in numbered chunks (`000000000.jsonl.gz` and up). Each is a packed text file with one fact on each line.
+- Beside each chunk is a small signed note, and the maker's public key is in the same folder. A chunk that has been changed, cut short or swapped does not check, and is refused.
+- It grows. New chunks are added as the system learns; old ones are never rewritten.
+- The private side - anything from a person's own life - is not here and never will be.
+
 ## If something is wrong
 
 Open an issue on this page (the Issues tab above). The maker reads them and will fix it.
