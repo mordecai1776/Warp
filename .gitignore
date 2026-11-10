@@ -1,0 +1,2 @@
+# Only the public page lives here. The .bat that sends it stays on this PC.
+*.bat
