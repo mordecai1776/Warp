@@ -38,6 +38,10 @@ It is rebuilt as the system changes. This one was built on 2026-11-10 and is sig
 
 Left out of the public seed: the maker's own build log and working conversations. A new build log starts with your copy.
 
+## If something is wrong
+
+Open an issue on this page (the Issues tab above). The maker reads them and will fix it.
+
 ## Where it stands
 
 This is early work by one person, built with AI models doing much of the building. Nothing here is proven yet. More people looking at it is what it needs most.
