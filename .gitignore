@@ -1,2 +1,3 @@
-# Only the public page lives here. The .bat that sends it stays on this PC.
-*.bat
+# The .bats that send this folder to GitHub stay on this PC.
+SEND_PAGE*.bat
+PUT_PAGE_ON_GITHUB.bat

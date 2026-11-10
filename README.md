@@ -32,7 +32,11 @@ You need Windows and Python 3.11.
 2. Run `START_FROM_SEED.bat`.
 3. It checks the seed, asks which of the three ways you want, sizes up your machine, and sets itself up.
 
-The seed will be posted here.
+The seed is here: `warp_seed.zip` and `START_FROM_SEED.bat`, in this repository. Download both.
+
+It is rebuilt as the system changes. This one was built on 2026-11-10 and is signed by its maker. It has been checked against its own list and signature. A start from an empty folder on a second machine has not been tested yet, so if it stops, say where.
+
+Left out of the public seed: the maker's own build log and working conversations. A new build log starts with your copy.
 
 ## Where it stands
 
