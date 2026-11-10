@@ -54,4 +54,6 @@ Every change comes with a test, and with a numbered entry in the build log sayin
 
 ## Licence
 
-Not yet chosen. Until one is, all rights are kept by the creator.
+MIT. Free to use, change, share and build on, for anyone. See `LICENSE`.
+
+This is meant to outlast its maker. If you are reading this and there is no one to ask, everything needed to carry it on is meant to be here. Take it and go.
